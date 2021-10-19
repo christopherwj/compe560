@@ -1,0 +1,198 @@
+
+ 1.Ten signals, each requiring A KHz and separated by B Hz guard bands are multiplexed on a single channel using FDM. How much minimum bandwidth is required for the channel? [2]
+
+
+
+
+ 2.The category of network (in terms of coverage area) of which Bluetooth is a member of:
+a) LAN
+b) MAN
+c) PAN
+d) WAN
+
+ 3.The latency encountered by a packet while it is being put out on the link bit by bit:
+a) Queuing Delay
+b) Processing Delay
+c) Transmission Delay
+d) Propagation Delay
+
+
+ 4.The ________ of a signal is the difference between its highest and lowest frequencies:
+a) Data Rate
+b) Bandwidth-Delay Product
+c) Bandwidth
+d) Channel Capacity
+
+
+ 5.The _________ of a channel is the maximum information rate that a channel is able to transmit/receive.
+a) Data Rate
+b) Channel Latency
+c) Bandwidth
+d) Channel Noise
+
+
+ 6.The IEEE standard for WiFi :
+a) IEEE 802.11
+b) IEEE 802.1
+c) IEEE 802.3
+d) IEEE 802.15
+
+
+ 7. How much time does it take to transmit each bit on a 10-Mbps network? 
+a) 100 탎ecs
+b) 10 탎ecs
+c) 1탎ecs
+d) 0.1탎ecs
+
+ 8. In the layered hierarchy, as the data packet moves from the upper to the lower layers, headers are
+a) Added
+b) Removed
+c) Rearranged
+d) Modified
+
+ 9. A set of rules that governs data communication
+a) Protocols
+b) Standards
+c) RFCs
+d) None of the mentioned
+
+ 10. Three or more devices share a link in ________ connection
+a) Unipoint
+b) Multipoint
+c) Point to point
+d) None of the mentioned
+
+ 11. In computer network, nodes are
+a) the computer that originates the data
+b) the computer that routes the data
+c) the computer that terminates the data
+d) all of the mentioned
+
+ 12. A __________ is a device that forwards packets between networks by processing the routing information included in the packet.
+a) bridge
+b) firewall
+c) router
+d) all of the mentioned
+
+ 13. The physical layer concerns with
+a) bit-by-bit delivery
+p) process to process delivery
+c) application to application delivery
+d) none of the mentioned
+
+ 14. Which transmission media has the highest transmission speed in a network?
+a) coaxial cable
+b) twisted pair cable
+c) optical fiber
+d) electrical cable
+
+ 15. Assume a x-Mbps Ethernet network with a single store-and-forward switch in the path, and a packet size of y bits. Each link introduces a propagation delay of z 탎 and the switch begins retransmitting immediately after it has finished receiving the packet. The delay encountered by the packet is: [5]
+
+
+
+ 16. If a binary signal is sent over a 3-kHz channel whose signal-to-noise ratio is 20dB, what is the approximate maximum achievable data rate? [Nyquist MDR = 2H log2 V bps, Shannon MDR = H log2 (1+S/N) bps] [3]
+a) 21Kbps
+b) 21bps
+c) 6 Kbps
+d) 6bps
+
+ 17.Calculate the MDR for a noiseless channel which occupies the spectrum between 1MHz and 7MHz and transmits data using 4-level digital signals [Nyquist MDR = 2H log2 V bps, Shannon MDR = H log2 (1+S/N) bps] [3]
+a) 24 Mbps
+b) 14 Mbps
+c) 28 Mbps
+d) 12 Mbps
+
+ 18.Which term is used specifically to identify the entity that is created when encapsulating data inside data link layer headers and trailers?
+a) packets
+b) segments
+c) messages
+d) frames
+
+
+ 19. Which layer defines the functions of logical network wide data transfer?
+a) PHY
+b) Data Link
+c) Network
+d) Transport
+
+ 20. Which layer defines the standards for cabling and connectors?
+a) PHY
+b) Data Link
+c) Network
+d) Transport
+
+ 21. Which sub-layer is concerned with channel contention mechanisms?
+a) PHY
+b) Data Link
+c) Network
+d) Transport
+
+ 22. The routing decision is made by which layer?
+a) PHY
+b) Data Link
+c) Network
+d) Transport
+
+ 23. Does star topology offer higher reliability and bandwidth than the bus and ring topologies? 
+a) Yes 
+b) No
+
+ 24. Does the area over which a network sprawls govern the choice of the transmission medium?
+a) Yes 
+b) No
+
+ 25. What is the difference between network layer data delivery versus transport layer data delivery?
+a) machine to machine versus port to port
+b) IP address based versus (IP, Port number) based
+c) distance based versus reliability based
+d) all of the above
+
+
+ 26. AM and FM are examples of this modulation scheme
+a) digital data to digital signal
+b) analog data to analog signal
+c) digital data to analog signal
+d) analog data to digital signal
+
+ 27. The portion of data link layer that interfaces with the PHY layer is called
+a) physical signaling sublayer
+b) physical data sublayer
+c) physical address sublayer
+d) none of the mentioned
+
+ 28. Physical layer provides
+a) mechanical specifications of electrical connectors and cables
+b) electrical specification of transmission line signal level
+c) specification for IR over optical fiber
+d) all of the mentioned
+
+ 29. The physical layer is responsible for
+a) line coding
+b) channel coding
+c) modulation
+d) all of the mentioned
+
+ 30. The physical layer translates logical communication requests from the ______ into hardware specific operations.
+a) data link layer
+b) network layer
+c) transport layer
+d) application layer
+
+ 31. A single channel is shared by multiple signals by
+a) analog modulation
+b) digital modulation
+c) multiplexing
+d) none of the mentioned
+
+ 32. Wireless transmission can be done via
+a) radio waves
+b) microwaves
+c) infrared
+d) all of the mentioned
+
+ 33. What is the difference between a circuit switched network and a packet switched network 
+ circuit set-up time versus no such overhead
+b) dedicated communication channel versus shared communication channel
+c) all packets take the same path versus each packet may take a different path
+d) all of the mentioned
+
