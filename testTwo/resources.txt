@@ -1,0 +1,7 @@
+Here is the main quizlet. DO NOT DO FULL SENTENCE SEARCH.
+https://quizlet.com/194892191/compe560-exam-flash-cards/
+
+For example, there is a question on CRC, only search key terms to find related problems. Sarkar permutates her questions but asks the same thing.
+
+Dijkstra's algorithm explanation:
+https://stackabuse.com/dijkstras-algorithm-in-python/
